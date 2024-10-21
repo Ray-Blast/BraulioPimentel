@@ -1,6 +1,6 @@
 # Intro:
 
-- 👋 Hi, I’m @BraulioPimentel
+- 👋 Hi, I’m @Ray-Blast
 - 👀 I’m interested in Game Development, Streaming, and Illustrating
 - 🌱 I’m currently learning programming in **C++, Python, Java as well as Game Development Engines like Unreal Engine**
 - 💞️ I’m looking to collaborate on projects that involve automation, Unreal Engine, and art
