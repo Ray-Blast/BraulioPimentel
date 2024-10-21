@@ -4,7 +4,7 @@
 - 👀 I’m interested in Game Development, Streaming, and Illustrating
 - 🌱 I’m currently learning programming in **C++, Python, Java as well as Game Development Engines like Unreal Engine**
 - 💞️ I’m looking to collaborate on projects that involve automation, Unreal Engine, and art
-- 📫 How to reach me: brauliopimentel3@gmail.com
+- 📫 How to reach me: rayblast179contact@gmail.com
 - 😅 Thank you for coming to my page!
 
 # Reload Entertainment Studios
